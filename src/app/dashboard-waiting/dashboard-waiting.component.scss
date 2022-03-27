@@ -1,0 +1,21 @@
+.example-container {
+    width: 1280px;
+    // @include make-container();
+    margin: 10px auto;
+    // display:flex;
+    justify-content: center; /* align horizontal */
+    // padding: 10; 
+    background-color: #727272;
+  }
+
+.padding_footer{
+    text-align: -webkit-center;
+    padding: 15px;
+    font-size: 18px;
+    font-family: serif;
+    padding: 30px 0 35px 0px;
+}
+
+.antrian-value{
+    padding-top: 20px;
+}
